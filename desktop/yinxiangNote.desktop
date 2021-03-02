@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=印象笔记
+Icon=/home/tc/.local/share/applications/my-ubuntu-helper/desktop/icon/yinxiangNote-icon.png
+Exec=google-chrome-stable --app='https://app.yinxiang.com/Login.action'
+Comment=ying xiang note;yingxiangnote;印象笔记;note
+Categories=web tools
+Terminal=false
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=百度翻译
+Icon=/home/tc/.local/share/applications/my-ubuntu-helper/desktop/icon/baiduTranslate-icon.ico
+Exec=electron-webbox --args url="https://fanyi.baidu.com/" width=1360 height=700 resizable=false maximizable=false icon=/home/tc/.local/share/applications/my-ubuntu-helper/desktop/icon/baiduTranslate-icon.ico
+Comment=百度翻译;baidufanyi;baidu translate;translate;fanyi;
+Categories=web tools
+Terminal=false
+

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=JMC
+Icon=/opt/jmc-7.1.2_linux-x64/bin/icon.xpm
+Exec="/opt/jmc-7.1.2_linux-x64/bin/jmc" %f
+Comment=Java Mission Controll
+Categories=Monitor
+Terminal=false

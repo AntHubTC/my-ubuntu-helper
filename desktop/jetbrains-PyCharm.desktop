@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PyCharm
+Icon=/opt/pycharm-2020.3.2/bin/pycharm.svg
+Exec="/opt/pycharm-2020.3.2/bin/pycharm.sh" %f
+Comment=python charm
+Categories=Development;python ide;
+Terminal=false
+StartupWMClass=jetbrains-pycharm

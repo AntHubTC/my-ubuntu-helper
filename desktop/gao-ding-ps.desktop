@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=gaoding ps
+Icon=/home/tc/.local/share/applications/my-ubuntu-helper/desktop/icon/default-icon.png
+Exec=electron-webbox --args url="https://ps.gaoding.com/#/" maximize
+Comment=gaodingps;ps;paint online;ps online
+Categories=web tools
+Terminal=false
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=百度脑图
+Icon=/home/tc/.local/share/applications/my-ubuntu-helper/desktop/icon/default-icon.png
+Exec=electron-webbox --args url="https://naotu.baidu.com/" maximize
+Comment=naotu;baidunaotu;bai du nao tu;
+Categories=web tools
+Terminal=false
+
