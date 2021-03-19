@@ -3,7 +3,7 @@ Version=1.0
 Type=Application
 Name=github doc
 Icon=/home/tc/.local/share/applications/my-ubuntu-helper/desktop/icon/default-icon.png
-Exec=electron-webbox --args url="https://fallengodcoder.github.io/IndexBlog/" maximize
+Exec=/home/tc/.local/share/applications/my-ubuntu-helper/script/githubDocStart.sh
 Comment=githubdoc;doc;githubpage;
 Categories=web tools
 Terminal=false
